@@ -4,7 +4,7 @@ Custom Linux Bash. The assignment was issued by CSEx61 - Operating Systems in 20
 
 # The Assignment Documentation
 First of all, I must cite the assignment documentation to this link.
-(https://github.com/KhaledElTahan/Operating-Systems/tree/master/Labs/lab1 "Simple Shell Assignment")
+[Simple Shell Assignment](https://github.com/KhaledElTahan/Operating-Systems/tree/master/Labs/lab1)
 
 # Simple Shell (Multi-Processing)
 
