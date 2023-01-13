@@ -1,5 +1,5 @@
 # Zen-Bash
-Custom Linux Bash. The assignment was issued by CSEx61 - Operating Systems in 2021 to design and implement a Linux-like bash.
+Custom Linux Bash. The assignment was issued by CSEx61 - Operating Systems in 2021 to design and implement a Linux-like bash. The bash was developed in linux environment using C/C++.
 
 
 # The Assignment Documentation
@@ -8,7 +8,7 @@ First of all, I must cite the assignment documentation to this link.
 
 # Simple Shell (Multi-Processing)
 
-![Shell](shell.png)
+![image](https://user-images.githubusercontent.com/81028196/212373097-cecf1737-d889-4c5f-a612-2697c03f29c0.png)(shell.png)
 
 ## 1. Objectives
 
@@ -62,7 +62,7 @@ Your shell must support the following commands:
         * export y="Hello world"
         * echo "$y" => Hello world
 
-| ![System Monitor](sysmonitor.png) |
+| ![image](https://user-images.githubusercontent.com/81028196/212373197-9d9b8a42-ae6b-4551-8263-5e86c58a5b3b.png)(sysmonitor.png) |
 |:--:|
 | *Figure 1 Firefox, Calculator and Gedit are child processes to the SimpleShell process** |
 
