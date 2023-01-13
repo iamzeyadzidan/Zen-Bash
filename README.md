@@ -1,6 +1,9 @@
 # Zen-Bash
 Custom Linux Bash. The assignment was issued by CSEx61 - Operating Systems in 2021 to design and implement a Linux-like bash. The bash was developed in linux environment using C/C++.
 
+# How to run from terminal
+• compile using gcc main.c -lreadline
+• run using ./a.out
 
 # The Assignment Documentation
 First of all, I must cite the assignment documentation to this link.
